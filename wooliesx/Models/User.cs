@@ -7,7 +7,7 @@ namespace wooliesx.Models
 {
     public class User
     {
-        public string Name => "Pankaj";
+        public string Name => "Pankaj Lala";
         public string Token => "86856790-32bc-419f-a301-7956a7b5dc15";
     }
 }
